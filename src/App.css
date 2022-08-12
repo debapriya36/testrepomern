@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  background-image: linear-gradient(to top, #a7a6cb 0%, #8989ba 52%, #7676b7 100%);
+  height: 100%;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+h3{
+  background-color: black !important;
+  color: azure !important;
+  height: 50px;
+  margin: 0px;
+}
+
